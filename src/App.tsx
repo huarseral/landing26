@@ -43,7 +43,7 @@ function App() {
           name="Huarseral Developer"
           title="Alexander M. Huarcaya Serrano"
           subtitle="Creamos experiencias digitales únicas asistidas por Inteligencia Artificial de última generación."
-          ctaText="Es hora de programar"
+          ctaText="El Futuro es Hoy..."
           onCtaClick={handleCtaClick}
         />
       }
