@@ -41,7 +41,7 @@ function App() {
       hero={
         <HeroSection 
           name="Huarseral Developer"
-          title="Alexander Huarcaya"
+          title="Alexander M. Huarcaya Serrano"
           subtitle="Creamos experiencias digitales únicas asistidas por Inteligencia Artificial de última generación."
           ctaText="Es hora de programar"
           onCtaClick={handleCtaClick}
